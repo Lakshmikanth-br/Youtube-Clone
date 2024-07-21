@@ -1,0 +1,93 @@
+
+            .subscribe-button {
+                background-color: rgb(207, 238, 52);
+                color: rgb(32, 14, 198);
+                border: none;
+                height: 50px;
+                width: 100px;
+                border-radius:10px ;
+                cursor: pointer;
+                margin-right: 8px;
+                transition: opacity 1s;
+                
+               
+                
+                
+            }
+            
+            
+            .subscribe-button:hover {
+                background-color: aqua;
+                opacity: 0.3;
+                box-shadow: 10px 10px 10px rgb(138, 123, 123);
+            }
+        
+            
+            .subscribe-button:active {
+                background-color: rgb(214, 16, 16);
+            }
+        
+            .join-button {
+                background-color: rgb(215, 227, 233);
+                color: rgb(192, 42, 67);
+                border-color: chartreuse;
+                border-style:solid
+                border-width : 2px;
+                padding-left: 20px;
+                padding-top :  20px;
+                border-radius:10px ;
+                cursor: pointer;
+                margin-right: 8px;
+                vertical-align: top;
+                
+        
+            }
+            .Tweet-button {
+                background-color:rgb(222, 227, 229);
+                color:rgb(17, 162, 199);
+                border-color: rgb(23, 165, 208);
+                border-style:solid
+                border-width: 2px;
+                height: 50px;
+                width: 100px;
+                border-radius:20px ;
+                cursor: pointer;
+                font-size: 25px;
+                transition : opacity 1s;
+                box-shadow : 5px 5px 5px blue;
+                margin-right: 8px;
+            }
+            .Tweet-button:hover {
+                background-color: bisque;
+                opacity:0.3;
+        
+            } 
+            .Tweet-button:active {
+                background-color: rgb(222, 135, 144);
+                
+            }
+            .sign-in-button {
+                background-color: rgb(34, 128, 179);
+                color: antiquewhite;
+                border-color: burlywood;
+                border-style: dashed;
+                border-width: 2px;
+                 border-radius : 20px;
+                 height: 50px;
+                 width: 100px;
+                 font-size: 20px;
+                 transition: opacity 1s;
+                 
+                 box-shadow: 5px 5px 5px pink;
+                 cursor : pointer;
+                }
+                   .sign-in-button:hover {
+                    background-color: darkorange;
+                    opacity:0.3;
+        
+                   }
+                   .sign-in-button:active {
+                    background-color: cyan;
+                   }
+        
+        
